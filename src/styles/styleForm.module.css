@@ -1,0 +1,23 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+   padding: 20px;
+   background-color: #f97acf81;
+   gap: 7px;
+   border-radius: 1em;
+}
+.inputContainer{
+    background-color: white;
+    height: 2em;
+    border-radius: 0.5em;
+    color: black;
+    border-color: black;
+}
+.labelContainer{
+    color: black;
+    text-align: left;
+}
+.button{
+    background-color: rgb(185, 126, 240);
+    color: black;
+}
